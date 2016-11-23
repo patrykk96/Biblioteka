@@ -1,0 +1,6 @@
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\bin\Debug\Zajecia23listopada.exe.config
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\bin\Debug\Zajecia23listopada.exe
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\bin\Debug\Zajecia23listopada.pdb
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\obj\Debug\Zajecia23listopada.csprojResolveAssemblyReference.cache
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\obj\Debug\Zajecia23listopada.exe
+c:\users\local\documents\visual studio 2013\Projects\Zajecia23listopada\Zajecia23listopada\obj\Debug\Zajecia23listopada.pdb
